@@ -1,16 +1,50 @@
-### Hi there 👋
 
-<!--
-**yashjaiswal-only/yashjaiswal-only** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 id="header" align="center">
+  Hii 👋 I am Yash Jaiswal
+</h1>
+<div id="header" align="center">
+  <img width="200" height="200" margin="0"  src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="100"/>
+</div>
+
+
+<h1> :man_technologist: About Me : </h1>
+-👨‍🎓 Pursuing <B>Bachelors of Technology</B> in Computer Science and Artificial Intelligence from <B>Netaji Subhas University of Technology</B>, Delhi.
+<br/>
+-:seedling: I am a Full Stack Developer Exploring new Tech Stacks including different types of framework and technologies.
+<br/>
+-:zap: Solves problems on various sites including Leetcode, GeeksForGeeks and Codechef.
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="React" alt="npm" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="React" alt="node" width="40" height="40"/>&nbsp; 
+  <img src="https://seeklogo.com/images/S/strapi-logo-3566BEBAAE-seeklogo.com.png" title="React" alt="strapi" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="React" alt="express" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="React" alt="mongodb" width="40" height="40"/>&nbsp; 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/768px-Vercel_logo_black.svg.png" title="Material UI" alt="vercel" width="60" height="20"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/221px-Netlify_logo.svg.png?20180815190440" title="Material UI" alt="netlify" width="60" height="20"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
+<hr>
+
+## 🧑🏻‍💻 Connect with me 👋
+<a href="https://leetcode.com/yashjaiswal_only/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<a href="https://auth.geeksforgeeks.org/user/yashjaiswal2121/profile"> ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-green?style=for-the-badge&logo=GeeksForGeeks&logoColor=#d16c06)</a>
+<a href="https://www.codechef.com/users/yash_jaiswal11"> ![Codechef](https://img.shields.io/badge/Codechef-000000?style=for-the-badge&logo=Codechef&logoColor=#d16c06)</a>
+<a href="mailto:yashjaiswal2121@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/yash-jaiswal-0391691b9/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
+
